@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Video zamrznjenega časa lahko posnamete samo z %d subjektov.</item>
+        <item quantity="one">Video zamrznjenega časa lahko posnamete samo z %d subjektom.</item>
+        <item quantity="two">Video zamrznjenega časa lahko posnamete samo s %d subjekta.</item>
+        <item quantity="few">Video zamrznjenega časa lahko posnamete samo z %d subjektov.</item>
+    </plurals>
+</resources>

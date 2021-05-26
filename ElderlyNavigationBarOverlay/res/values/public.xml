@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="dimen" name="navigation_bar_height" id="0x7f010000" />
+    <public type="dimen" name="navigation_bar_height_landscape" id="0x7f010001" />
+    <public type="dimen" name="navigation_bar_width" id="0x7f010002" />
+</resources>

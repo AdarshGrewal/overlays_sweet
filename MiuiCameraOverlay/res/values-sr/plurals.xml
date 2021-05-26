@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Можете креирати залеђене видео снимке с највише %d објеката.</item>
+        <item quantity="one">Можете креирати залеђене видео снимке само с %d објектом.</item>
+        <item quantity="few">Можете креирати залеђене видео снимке с највише %d објекта.</item>
+    </plurals>
+</resources>

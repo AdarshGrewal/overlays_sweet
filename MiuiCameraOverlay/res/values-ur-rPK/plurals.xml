@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">آپ وقت منجمد ویڈیوز کو صرف %d موضوعات کے ساتھ شوٹ کر سکتے ہیں۔</item>
+        <item quantity="one">آپ وقت منجمد ویڈیوز کو صرف %d موضوع کے ساتھ شوٹ کر سکتے ہیں۔</item>
+    </plurals>
+</resources>

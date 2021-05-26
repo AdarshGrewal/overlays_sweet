@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">ଆପଣ %d ସବଜେକ୍ଟ ପର୍ଯ୍ୟନ୍ତ ଟାଇମ୍ ଫ୍ରିଜ୍ ଭିଡିଓ ସୁଟ୍ କରିପାରିବେ।</item>
+        <item quantity="one">ଆପଣ କେବଳ %d ସବଜେକ୍ଟ ସହିତ ଟାଇମ୍ ଫ୍ରିଜ୍ ଭିଡିଓ ସୁଟ୍ କରିପାରିବେ।</item>
+    </plurals>
+</resources>

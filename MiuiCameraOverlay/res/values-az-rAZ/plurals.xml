@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Vaxt dondurma videolarını yalnız %d mövzu ilə çəkə bilərsiniz.</item>
+        <item quantity="one">Vaxt dondurma videolarını yalnız %d mövzu ilə çəkə bilərsiniz.</item>
+    </plurals>
+</resources>

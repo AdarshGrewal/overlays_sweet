@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Mund të xhironi video me ngrirje kohe deri në %d teme.</item>
+        <item quantity="one">Mund të xhironi video të ngrirjes së kohës vetëm me %d teme.</item>
+    </plurals>
+</resources>

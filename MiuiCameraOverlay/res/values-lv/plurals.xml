@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Jūs varat uzņemt laika iesaldēšanas video ar %d objektiem.</item>
+        <item quantity="zero">Jūs varat uzņemt laika iesaldēšanas video ar %d objektiem.</item>
+        <item quantity="one">Jūs varat uzņemt laika iesaldēšanas video ar %d objektu.</item>
+    </plurals>
+</resources>

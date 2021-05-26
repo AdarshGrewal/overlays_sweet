@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
+        <item quantity="zero">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
+        <item quantity="one">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
+        <item quantity="two">يمكنك تجميد وقت الفيديوهات فقط مع %d عناصر</item>
+        <item quantity="few">يمكنك تجميد وقت الفيديوهات فقط مع %d عناصر</item>
+        <item quantity="many">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
+    </plurals>
+</resources>

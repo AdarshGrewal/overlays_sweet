@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">ਤੁਸੀਂ ਸਮੇਂ ਨਾਲ ਫ਼੍ਰੀਜ਼ ਕੀਤੇ ਵੀਡੀਓ ਨੂੰ ਸਿਰਫ਼ %d ਵਿਸ਼ਿਆਂ ਨਾਲ ਸ਼ੂਟ ਕਰ ਸਕਦੇ ਹੋ।</item>
+        <item quantity="one">ਤੁਸੀਂ ਸਮੇਂ ਨਾਲ ਫ਼੍ਰੀਜ਼ ਕੀਤੇ ਵੀਡੀਓ ਨੂੰ ਸਿਰਫ਼ %d ਵਿਸ਼ੇ ਨਾਲ ਸ਼ੂਟ ਕਰ ਸਕਦੇ ਹੋ।</item>
+    </plurals>
+</resources>

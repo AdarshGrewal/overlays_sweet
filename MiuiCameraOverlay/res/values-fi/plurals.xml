@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Voit kuvata pysäytettyjä videoita vain %d kohteella.</item>
+        <item quantity="one">Voit kuvata pysäytettyjä videoita vain %d kohteella.</item>
+    </plurals>
+</resources>

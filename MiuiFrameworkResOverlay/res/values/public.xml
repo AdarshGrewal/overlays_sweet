@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="config_hightGrayBrightnessLevels" id="0x7f010000" />
+    <public type="array" name="config_lowGrayBrightnessLevels" id="0x7f010001" />
+    <public type="bool" name="config_automatic_brightness_usetouch" id="0x7f020000" />
+    <public type="bool" name="config_brightness_useassistsensor" id="0x7f020001" />
+    <public type="bool" name="config_brightness_usemotionsensor" id="0x7f020002" />
+    <public type="bool" name="config_brightness_useprox" id="0x7f020003" />
+    <public type="bool" name="config_displayFeatureCallbackSupported" id="0x7f020004" />
+    <public type="bool" name="config_nightLightAdjSupported" id="0x7f020005" />
+    <public type="bool" name="support_video_hdr_mode" id="0x7f020006" />
+    <public type="integer" name="config_assistsensor_maxthreshold" id="0x7f030000" />
+    <public type="integer" name="config_assistsensor_threshold" id="0x7f030001" />
+    <public type="integer" name="config_auto_brightness_rates_slow" id="0x7f030002" />
+    <public type="integer" name="config_auto_brightness_touch_event_debounce" id="0x7f030003" />
+    <public type="integer" name="config_autobrightness_dark_brightness" id="0x7f030004" />
+    <public type="integer" name="config_autobrightness_dark_rate" id="0x7f030005" />
+    <public type="integer" name="config_automatic_brightness_touchbottom" id="0x7f030006" />
+    <public type="integer" name="config_automatic_brightness_touchleft" id="0x7f030007" />
+    <public type="integer" name="config_automatic_brightness_touchright" id="0x7f030008" />
+    <public type="integer" name="config_automatic_brightness_touchtop" id="0x7f030009" />
+    <public type="integer" name="config_backlightBit" id="0x7f03000a" />
+    <public type="integer" name="config_brightness_brightening_rate" id="0x7f03000b" />
+    <public type="integer" name="config_brightness_darken_threshold" id="0x7f03000c" />
+    <public type="integer" name="config_brightness_skipdebounce" id="0x7f03000d" />
+    <public type="integer" name="config_dynamicdebounce1" id="0x7f03000e" />
+    <public type="integer" name="config_dynamicdebounce2" id="0x7f03000f" />
+    <public type="integer" name="config_nightLightBrightnessDefault" id="0x7f030010" />
+    <public type="integer" name="config_nightLightBrightnessMaximum" id="0x7f030011" />
+    <public type="integer" name="config_nightLightBrightnessMinimum" id="0x7f030012" />
+    <public type="integer" name="config_nightLightColorDefault" id="0x7f030013" />
+    <public type="integer" name="config_nightLightColorMaximum" id="0x7f030014" />
+    <public type="integer" name="config_nightLightColorMinimum" id="0x7f030015" />
+    <public type="integer" name="config_slow_ratio" id="0x7f030016" />
+    <public type="string" name="double_click_power_key" id="0x7f040000" />
+    <public type="string" name="long_press_home_key" id="0x7f040001" />
+</resources>
