@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">ನೀವು ಸಮಯ ಫ್ರೀಜ್‌ ವೀಡಿಯೊಗಳನ್ನು %d ವಸ್ತುಗಳ ಜೊತೆ ಮಾತ್ರ ಶೂಟ್‌ ಮಾಡಬಹುದು.</item>
+        <item quantity="one">ನೀವು ಸಮಯ ಫ್ರೀಜ್‌ ವೀಡಿಯೊಗಳನ್ನು %d ವಸ್ತುವಿನ ಜೊತೆ ಮಾತ್ರ ಶೂಟ್‌ ಮಾಡಬಹುದು.</item>
+    </plurals>
+</resources>

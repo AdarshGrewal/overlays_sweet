@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">আপনি টাইম ফ্রিজ ভিডিও %d টি সাবজেক্ট দিয়ে শুট করতে পারেন</item>
+        <item quantity="one">আপনি টাইম ফ্রিজ ভিডিও %d টি সাবজেক্ট দিয়ে শুট করতে পারেন</item>
+    </plurals>
+</resources>

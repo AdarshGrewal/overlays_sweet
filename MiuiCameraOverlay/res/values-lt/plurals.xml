@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektų.</item>
+        <item quantity="one">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektu.</item>
+        <item quantity="few">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektais.</item>
+        <item quantity="many">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektais.</item>
+    </plurals>
+</resources>

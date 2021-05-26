@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Du kan filma tidsfrysningsvideor med upp till %d motiv.</item>
+        <item quantity="one">Du kan bara filma tidsfrysningsvideor med %d motiv.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">You can shoot time freeze videos with up to %d subjects.</item>
+        <item quantity="one">You can shoot time freeze videos only with %d subject.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Videa se zmrazeným pozadím mohou obsahovat až %d subjektů.</item>
+        <item quantity="one">Videa se zmrazeným pozadím mohou obsahovat pouze %d subjekt.</item>
+        <item quantity="few">Videa se zmrazeným pozadím mohou obsahovat až %d subjekty.</item>
+        <item quantity="many">Videa se zmrazeným pozadím mohou obsahovat až %d subjektu.</item>
+    </plurals>
+</resources>

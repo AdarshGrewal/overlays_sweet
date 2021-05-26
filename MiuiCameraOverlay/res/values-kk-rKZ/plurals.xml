@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Уақытты тоқтататын видеоларды %d адаммен түсіруге болады.</item>
+        <item quantity="one">Уақытты тоқтататын видеоларды тек %d адаммен түсіруге болады.</item>
+    </plurals>
+</resources>

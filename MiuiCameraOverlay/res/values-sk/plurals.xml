@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Videá s funkciou zmrazenia môžete natáčať iba s %d objektami.</item>
+        <item quantity="one">Videá s funkciou zmrazenia môžete natáčať iba s %d objektom.</item>
+        <item quantity="few">Videá s funkciou zmrazenia môžete natáčať iba s %d objektami.</item>
+        <item quantity="many">Videá s funkciou zmrazenia môžete natáčať iba s %d objektami.</item>
+    </plurals>
+</resources>

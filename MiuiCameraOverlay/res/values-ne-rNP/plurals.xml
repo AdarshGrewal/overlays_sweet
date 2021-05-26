@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">समय फ्रिज भिडियो तपाईं %d वस्तुहरूसंग मात्र शूट गर्न सक्नुहुन्छ।</item>
+        <item quantity="one">समय फ्रिज भिडियो तपाईं %d वस्तुसंग मात्र शूट गर्न सक्नुहुन्छ।</item>
+    </plurals>
+</resources>

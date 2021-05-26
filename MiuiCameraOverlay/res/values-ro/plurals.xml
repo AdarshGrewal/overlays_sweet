@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Puteți înregistra clipuri video de înghețare a timpului numai cu %d subiecte.</item>
+        <item quantity="one">Puteți înregistra clipuri video de înghețare a timpului numai cu %d subiect.</item>
+        <item quantity="few">Puteți înregistra clipuri video de înghețare a timpului numai cu %d subiecte.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">"Vous ne pouvez enregistrer des vidéos de temps de figer qu'avec %d objets"</item>
+        <item quantity="one">"Vous ne pouvez enregistrer des vidéos de temps de figer qu'avec %d objet"</item>
+    </plurals>
+</resources>

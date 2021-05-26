@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Bạn có thể quay video đóng băng thời gian với tối đa %d đối tượng.</item>
+    </plurals>
+</resources>

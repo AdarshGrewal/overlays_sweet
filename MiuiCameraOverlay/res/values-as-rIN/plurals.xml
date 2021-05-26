@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">"আপুনি %d টা পৰ্যন্ত বিষয়ৰ সৈতে সময় ফ্ৰীজ ভিডিঅ'সমূহ শ্বুট কৰিব পাৰে।"</item>
+        <item quantity="one">"আপুনি কেৱল %d টা বিষয়ৰ সৈতেহে সময় ফ্ৰীজ ভিডিঅ'সমূহ শ্বুট কৰিব পাৰে।"</item>
+    </plurals>
+</resources>

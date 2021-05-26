@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">%d സബ്ജക്റ്റുകൾ ഉപയോഗിച്ച് മാത്രമേ നിങ്ങൾക്ക് ടൈം ഫ്രീസ് വീഡിയോകൾ ഷൂട്ട് ചെയ്യാൻ കഴിയൂ.</item>
+        <item quantity="one">%d സബ്ജക്റ്റ് ഉപയോഗിച്ച് മാത്രമേ നിങ്ങൾക്ക് ടൈം ഫ്രീസ് വീഡിയോകൾ ഷൂട്ട് ചെയ്യാൻ കഴിയൂ.</item>
+    </plurals>
+</resources>

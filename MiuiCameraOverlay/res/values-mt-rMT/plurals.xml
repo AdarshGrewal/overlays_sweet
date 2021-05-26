@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">"Tista' tiġbed il-vidjos bil-ħin iffriżat bi %d(-il) suġġett biss."</item>
+        <item quantity="one">"Tista' tiġbed il-vidjos bil-ħin iffriżat b'suġġett %d biss."</item>
+        <item quantity="few">"Tista' tiġbed il-vidjos bil-ħin iffriżat b'%d suġġetti biss."</item>
+        <item quantity="many">"Tista' tiġbed il-vidjos bil-ħin iffriżat bi %d(-il) suġġett biss."</item>
+    </plurals>
+</resources>

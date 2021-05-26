@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Записывать видео с остановкой времени можно только с %d людьми в кадре.</item>
+        <item quantity="one">Записывать видео с остановкой времени можно только с %d человеком в кадре.</item>
+        <item quantity="few">Записывать видео с остановкой времени можно только с %d людьми в кадре.</item>
+        <item quantity="many">Записывать видео с остановкой времени можно только с %d людьми в кадре.</item>
+    </plurals>
+</resources>

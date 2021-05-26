@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">ທ່ານສາມາດຖ່າຍວິດີໂອແຊ່ແຂງເວລາໄດ້ສູງສຸດ %d ວັດຖຸ.</item>
+    </plurals>
+</resources>

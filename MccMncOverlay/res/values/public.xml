@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="data_type_name_mcc_key" id="0x7f010000" />
+    <public type="array" name="data_type_name_mcc_value" id="0x7f010003" />
+    <public type="array" name="data_type_name_mcc_mnc_key" id="0x7f010001" />
+    <public type="array" name="data_type_name_mcc_mnc_value" id="0x7f010002" />
+    <public type="array" name="status_bar_show_spn_by_gid_when_airplane" id="0x7f010004" />
+    <public type="bool" name="show_plmn_and_spn_in_carrier" id="0x7f020000" />
+    <public type="bool" name="status_bar_show_spn_when_airplane" id="0x7f020005" />
+    <public type="bool" name="status_bar_show_mobile_type_in_mms" id="0x7f020003" />
+    <public type="bool" name="status_bar_hide_volte" id="0x7f020001" />
+    <public type="bool" name="status_bar_hide_vowifi_mcc_mnc" id="0x7f020002" />
+    <public type="bool" name="status_bar_show_mobile_type_when_wifi_on" id="0x7f020004" />
+    <public type="integer" name="status_bar_volte_drawable_type" id="0x7f030000" />
+    <public type="integer" name="status_bar_vowifi_drawable_type" id="0x7f030001" />
+</resources>
