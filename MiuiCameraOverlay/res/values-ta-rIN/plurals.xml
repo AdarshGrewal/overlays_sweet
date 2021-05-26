@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">%d சப்ஜெக்ட்களுடன் மட்டுமே டைம் ஃபீஸ் வீடியோக்களை ஷூட் செய்ய முடியும்.</item>
+        <item quantity="one">%d சப்ஜெக்ட் உடன் மட்டுமே டைம் ஃபீஸ் வீடியோக்களை ஷூட் செய்ய முடியும்.</item>
+    </plurals>
+</resources>

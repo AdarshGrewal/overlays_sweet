@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: MiuiCameraOverlay.apk
+compressionType: false
+doNotCompress:
+- arsc
+- webp
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '27'
+  targetSdkVersion: '29'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.0-dirty
+versionInfo:
+  versionCode: '1001'
+  versionName: 1.0.01

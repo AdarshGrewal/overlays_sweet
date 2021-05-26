@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Maximum %d tárggyal készíthet time freeze videókat.</item>
+        <item quantity="one">Csak %d tárggyal készíthet time freeze videókat.</item>
+    </plurals>
+</resources>

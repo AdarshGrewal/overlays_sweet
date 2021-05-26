@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">ניתן לצלם סרטוני הקפאת-זמן עם פוקוס על עד %d גורמים.</item>
+        <item quantity="one">ניתן לצלם סרטוני הקפאת-זמן עם פוקוס על גורם %d בלבד.</item>
+        <item quantity="two">ניתן לצלם סרטוני הקפאת-זמן עם פוקוס על עד %d גורמים.</item>
+        <item quantity="many">ניתן לצלם סרטוני הקפאת-זמן עם פוקוס על עד %d גורמים.</item>
+    </plurals>
+</resources>

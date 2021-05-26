@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Можете да заснемате видеоклипове със замразено време с до %d обекта.</item>
+        <item quantity="one">Можете да заснемате видеоклипове със замразено време само с %d обект.</item>
+    </plurals>
+</resources>

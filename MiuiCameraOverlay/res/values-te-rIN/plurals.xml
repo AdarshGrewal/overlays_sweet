@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">మీరు %d సబ్జెక్ట్‌లతో మాత్రమే టైమ్ ఫ్రీజ్ వీడియోలను షూట్ చేయగలరు.</item>
+        <item quantity="one">మీరు %d సబ్జెక్ట్‌తో మాత్రమే టైమ్ ఫ్రీజ్ వీడియోలను షూట్ చేయగలరు.</item>
+    </plurals>
+</resources>

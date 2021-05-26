@@ -1,0 +1,141 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: mOHM+NhUtjRr5HUeg8Gs1BwvcleK5pTrl2v309QwadI=
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 9XV73o9XFV0oamum/XrDBj4hMyaFhRekXVbzQoUaI28=
+
+Name: res/drawable-440dpi-2350x1860-v4/ic_wp_super_moon_flying_bird.we
+ bp
+SHA-256-Digest: +hyRm/LCbbiCmBNgtToLhN6SS4yqZrQUogibmL0KXP8=
+
+Name: res/drawable-440dpi-2408x880-v4/ic_wp_super_moon_cable_car.webp
+SHA-256-Digest: 7XZmXwPvZySqISeVWJu3H/ADYumMNJdAXCiNXY1uqFc=
+
+Name: res/drawable-night-440dpi-2350x1860-v8/video_cover_popup.webp
+SHA-256-Digest: Uqr3Ebw7GbuNMH0Fl8Z8lEYytB1Rh0bQ7NixhsgIEA8=
+
+Name: res/drawable/time_freeze_use_guide_cover.webp
+SHA-256-Digest: wKK80hzPHTxCupSo1wv/ZVNDPulEx5vbwQSMxoqyiMI=
+
+Name: res/drawable/time_freeze_use_guide_cover_en.webp
+SHA-256-Digest: Ccyud7ZIXH4OXIepHRfUpBHQNRGuxENha6gKSGIcQCo=
+
+Name: res/drawable/bg_super_moon_effect.webp
+SHA-256-Digest: rRdSwlShUCSG1XIHuHVTtBLy7n9+lzWGYBN68s1ILkk=
+
+Name: res/drawable-440dpi-2408x880-v4/video_cover_tab.webp
+SHA-256-Digest: WPoYiMbxP21DITFTzelJkfNkuyN8Uq2lvuKzY2oH9Hg=
+
+Name: res/drawable/slow_shutter_guide_stop.webp
+SHA-256-Digest: k6j71zndGKiOIXHuMj6j5sUcSxPOyTzdZQ5VFO1aCR0=
+
+Name: res/drawable-440dpi-2350x1860-v4/ic_wp_super_moon_branch_bird.we
+ bp
+SHA-256-Digest: vzh1gkPRXAs3g2EMycx+8NRPzzzz1r2xlF7oeDYnctY=
+
+Name: res/drawable-440dpi-2408x880-v4/ic_wp_super_moon_climb.webp
+SHA-256-Digest: tq5PFhGeyk8JirWV5aK77wei3zDVJD5T9Kc5z8jMoqI=
+
+Name: res/drawable-440dpi-2408x880-v4/ic_wp_super_moon_window.webp
+SHA-256-Digest: bXPLhveTaO7AAwwleSFhasc55Y5h95RTw8KicYqm8nQ=
+
+Name: res/drawable-night-440dpi-2350x1860-v8/video_cover_tab.webp
+SHA-256-Digest: LCnoB3Mi8TgT2U3wftWVyfwbyxpOC2c2fP88nPjCnnQ=
+
+Name: res/drawable-440dpi-2350x1860-v4/ic_wp_super_moon_leaf.webp
+SHA-256-Digest: XnQ8zJGkvvKRuLLB0+6P4sMcGdX3cO/5UT8MyAIzHtI=
+
+Name: res/drawable-night-440dpi-2408x880-v8/video_cover_popup.webp
+SHA-256-Digest: czmaOV2VqV4erLonW5zKLUfwV9qy1aofzKBVOjuggyQ=
+
+Name: res/drawable/slow_shutter_guide_sport.webp
+SHA-256-Digest: QkBAiYWyF1ilb7EVZGIsEfEs1NqOje70iLX11bnk+oo=
+
+Name: res/drawable-440dpi-2408x880-v4/ic_wp_super_moon_airplane.webp
+SHA-256-Digest: MOjR9GAYANq6R+H7ihuyjqnxbVCyUIbUg/YttnheaUc=
+
+Name: res/drawable-440dpi-2350x1860-v4/video_cover_tab.webp
+SHA-256-Digest: wWornQLal+u1MYpSjx4GqV0iOYyXs6YKB3Tfi/sIiTE=
+
+Name: res/drawable-440dpi-2350x1860-v4/ic_wp_super_moon_climb.webp
+SHA-256-Digest: IeBXlqTjQH0G9AJ444t4457wfS/jBGJBy5jiijJwEJk=
+
+Name: res/drawable-440dpi-2408x880-v4/ic_wp_super_moon_flying_bird.web
+ p
+SHA-256-Digest: PCltern9H4opjAUOnR+5/6OPCdDmQkO5ZwUV/BKICxo=
+
+Name: res/drawable-night-440dpi-2408x880-v8/video_cover_tab.webp
+SHA-256-Digest: EV9+EE7ZuF6JhoRJkgEXwd7OWPYcFqvyNkWgH6/Ak7c=
+
+Name: res/drawable/ic_wp_super_moon_airplane.webp
+SHA-256-Digest: oy58C0zG0ZTIYSrPkSABjONgsGHqHFmop6RO3lsu+O8=
+
+Name: res/drawable-440dpi-2408x880-v4/ic_wp_super_moon_leaf.webp
+SHA-256-Digest: hbm3VQXzJikCT/R6I+76252qAXD2S4In6nQVPFDgZgw=
+
+Name: res/drawable/ic_wp_super_moon_window.webp
+SHA-256-Digest: 8XEyu7BM9S+u0Hdhrd6VBujChYtNclGle6uigyintcU=
+
+Name: res/drawable-440dpi-2350x1860-v4/ic_wp_super_moon_cable_car.webp
+SHA-256-Digest: N2Arg/72xqSQszBXcAgYqKdl90cDxx142/U5o6DkHQI=
+
+Name: res/drawable/ic_wp_super_moon_black_cat.webp
+SHA-256-Digest: fUtbje2RC7F84yfqJKM2bpRxRs0YAlEKsGRfZtdElko=
+
+Name: res/drawable/clone_guide_freeze_frame_samples_cover.webp
+SHA-256-Digest: 1N8ua1Pe6j7H4CfzNV2CQFr2wSqyC7mEHzb0SgMIBuE=
+
+Name: res/drawable-440dpi-2408x880-v4/video_cover_popup.webp
+SHA-256-Digest: ozGenKxIVZzQR/l8M527uvvCNWjwC3AD+n6ISWZklfM=
+
+Name: res/drawable-440dpi-2350x1860-v4/ic_wp_super_moon_black_cat.webp
+SHA-256-Digest: yyVX1Ix7FaRMtety6aleEWeZq00mPvvjN6oe95SM25g=
+
+Name: res/drawable/ic_wp_super_moon_flying_bird.webp
+SHA-256-Digest: 9WOuWMsvAT21KiDBliirjw4pyOQgeqeHLQFJ6VQWrfk=
+
+Name: res/drawable-440dpi-2350x1860-v4/ic_wp_super_moon_window.webp
+SHA-256-Digest: qaCZALCHr0Q3lff2PjKRj6dfYM4SjAOoAwR0zBvFN3Q=
+
+Name: res/drawable-440dpi-2350x1860-v4/video_cover_popup.webp
+SHA-256-Digest: tQrXUWuqd2tDQlRf+tv8DaHdSt/WezkcqTZdXHIgAuA=
+
+Name: res/drawable/ic_wp_super_moon_climb.webp
+SHA-256-Digest: JSnMQ1dmDlesOG/wq6jKq6pJq8RoKS/KwkFQnB3cKoA=
+
+Name: res/drawable/time_freeze_use_samples_cover.webp
+SHA-256-Digest: wX6MyBDrCPQYFZC4FLqXHSYLYRM+fD5vZb2wzaliPjk=
+
+Name: res/drawable/ic_wp_super_moon_branch_bird.webp
+SHA-256-Digest: W20YiCu5QlAxYaDQgmDwQkHDeRB9Hs1u+DaZmhewp1s=
+
+Name: res/drawable-440dpi-2408x880-v4/ic_wp_super_moon_black_cat.webp
+SHA-256-Digest: nVZlZ8NEHcUKbLxpbhd57IKvljpTQEr9tsCurrJ3cjg=
+
+Name: res/drawable-440dpi-2408x880-v4/ic_wp_super_moon_branch_bird.web
+ p
+SHA-256-Digest: 6FUYiP8Hluab93O82WibJg3KV5Oi1b3gmzCLe9jSfeI=
+
+Name: res/drawable/clone_guide_freeze_frame_cover.webp
+SHA-256-Digest: McBvfT9k0wigrEouIzVgqbPt7xmSarYrroqinJ3wbZw=
+
+Name: res/drawable/ic_wp_super_moon_cable_car.webp
+SHA-256-Digest: XkQcK20I92Grql7yJosdTDkK0XRYHNnzcJXpHiUW5DA=
+
+Name: resources.arsc
+SHA-256-Digest: XwG4ROjoDn0xN/Ty0iPwJDjVI56jsQ7xfWV6DAs6NJY=
+
+Name: res/drawable-440dpi-2350x1860-v4/ic_wp_super_moon_airplane.webp
+SHA-256-Digest: jVeJXlrKICDca64934WDVkQBLEp3kYMZ68wd4ZR6y+M=
+
+Name: classes.dex
+SHA-256-Digest: yTGXdLw8KWrygKZ4K/cIvJRO5ffWyyPWH5jZyiW/aow=
+
+Name: res/drawable-440dpi-2350x1860-v4/bg_super_moon_effect.webp
+SHA-256-Digest: pTS/samsQiC5vtMZodkOmIX6TEnIwIMfd7lqtLiGQjA=
+
+Name: res/drawable/ic_wp_super_moon_leaf.webp
+SHA-256-Digest: HwDxsA3jr0zwBHR9G02gdHXbdCgdOKY95OwNFa+Mpro=
+

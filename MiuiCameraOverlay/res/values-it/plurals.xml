@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Puoi riprendere video time freeze con fino a%d soggetti.</item>
+        <item quantity="one">Puoi riprendere video time freeze con solo %d soggetto.</item>
+    </plurals>
+</resources>

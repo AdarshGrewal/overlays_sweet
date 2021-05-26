@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">તમે ફક્ત %d વિષયો સાથે ટાઇમ ફ્રીઝ વીડિયો શૂટ કરી શકો છો.</item>
+        <item quantity="one">તમે ફક્ત %d વિષય સાથે ટાઇમ ફ્રીઝ વીડિયો શૂટ કરી શકો છો.</item>
+    </plurals>
+</resources>

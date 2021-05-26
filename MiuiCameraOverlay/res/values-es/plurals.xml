@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Puedes grabar vídeos con congelación del tiempo solo con %d sujeto.</item>
+        <item quantity="one">Puedes grabar vídeos con congelación del tiempo solo con %d sujeto.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Timeամանակի սառեցման տեսանյութերը կարող եք նկարահանել միայն %d թեմաներով:</item>
+        <item quantity="one">Timeամանակի սառեցման տեսանյութերը կարող եք նկարահանել միայն %d թեմայով:</item>
+    </plurals>
+</resources>

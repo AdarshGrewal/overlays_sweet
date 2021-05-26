@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Só podes gravar vídeos con tempo conxelado con até %d suxeitos.</item>
+        <item quantity="one">Só podes gravar vídeos con tempo conxelado con %d suxeito.</item>
+    </plurals>
+</resources>

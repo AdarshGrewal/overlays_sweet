@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="debug_1">440</integer>
+    <integer name="custom_sound_recyclerview_column">2</integer>
+    <integer name="more_mode_max_icon_count_per_lines">3</integer>
+    <integer name="back_top_extra_column_count">4</integer>
+    <integer name="beauty_list_max_count">4</integer>
+    <integer name="front_lens_orientation">90</integer>
+    <integer name="front_top_extra_column_count">4</integer>
+    <integer name="preferred_image_reprocessor_type">0</integer>
+</resources>
