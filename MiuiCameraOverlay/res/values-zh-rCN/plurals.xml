@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">仅支持 %d 个人像拍摄</item>
+        <item quantity="one">仅支持 %d 个人像拍摄</item>
+    </plurals>
+</resources>

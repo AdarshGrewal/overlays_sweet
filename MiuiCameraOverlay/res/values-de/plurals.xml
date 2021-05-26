@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Du kannst Time-Freeze-Videos nur mit %d Motiven aufnehmen.</item>
+        <item quantity="one">Du kannst Time-Freeze-Videos nur mit %d Motiv aufnehmen.</item>
+    </plurals>
+</resources>

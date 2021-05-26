@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">အချိန်ရပ်ဗီဒီယိုများကို ရိုက်လိုသောအရာ %d ခု နှင့်သာ ရိုက်နိုင်သည်</item>
+    </plurals>
+</resources>

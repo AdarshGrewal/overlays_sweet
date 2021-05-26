@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Podeu enregistrar vídeos congelats només amb %d persones.</item>
+        <item quantity="one">Podeu enregistrar vídeos congelats només amb %d persona.</item>
+    </plurals>
+</resources>

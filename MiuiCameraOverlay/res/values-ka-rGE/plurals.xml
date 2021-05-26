@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">თქვენ შეგიძლიათ გადაიღოთ გაყინული ვიდოები მხოლოდ %d საგანი.</item>
+        <item quantity="one">თქვენ შეგიძლიათ გადაიღოთ გაყინული ვიდოები მხოლოდ %d საგანი.</item>
+    </plurals>
+</resources>

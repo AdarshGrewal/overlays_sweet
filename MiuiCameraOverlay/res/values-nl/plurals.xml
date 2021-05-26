@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">"U kunt video's met stilstaande tijd opnemen met maximaal %d onderwerpen."</item>
+        <item quantity="one">"U kunt alleen video's met stilstaande tijd opnemen met %d onderwerp."</item>
+    </plurals>
+</resources>

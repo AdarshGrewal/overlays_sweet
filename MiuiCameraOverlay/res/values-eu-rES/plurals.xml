@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Izoztutako denbora bideoak %d subjekturekin bakarrik grabatu ditzakezu.</item>
+        <item quantity="one">Izoztutako denbora bideoak %d subjekturekin bakarrik grabatu ditzakezu.</item>
+    </plurals>
+</resources>

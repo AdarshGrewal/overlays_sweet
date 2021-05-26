@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">تا %d سوژه می‌توانید برای ضبط ویدئوهای بی‌حرکت کردن زمان استفاده کنید</item>
+        <item quantity="one">ویدئوهای بی‌حرکت کردن زمان را فقط می‌توانید برای %d سوژه به‌کار برید</item>
+    </plurals>
+</resources>

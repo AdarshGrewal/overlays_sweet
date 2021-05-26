@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Можете да креирате замрзнати видео снимки со најмногу %d објекти.</item>
+        <item quantity="one">Можете да креирате замрзнати видео снимки само со%d објект.</item>
+    </plurals>
+</resources>

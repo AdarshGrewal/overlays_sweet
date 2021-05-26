@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектамі."</item>
+        <item quantity="one">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектам."</item>
+        <item quantity="few">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектамі."</item>
+        <item quantity="many">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектамі."</item>
+    </plurals>
+</resources>

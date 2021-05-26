@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">អ្នកអាចថតវីដេអូបង្កកពេលវេលាបានរហូតដល់ %d កម្មវត្ថុ។</item>
+    </plurals>
+</resources>
